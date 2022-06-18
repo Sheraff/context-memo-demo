@@ -1,0 +1,15 @@
+:global(p) {
+  margin: 0;
+}
+
+.grid {
+  padding: 1em;
+  display: grid;
+  grid-template-columns: auto 1fr;
+  gap: 1em;
+}
+
+.grid > * {
+  border: 1px solid rgba(0, 0, 0, 0.2);
+  padding: 0.5em;
+}

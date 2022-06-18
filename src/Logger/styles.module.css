@@ -1,0 +1,13 @@
+.logger {
+  animation: 3000ms forwards ease-out;
+  animation-name: blink;
+}
+
+@keyframes blink {
+  from {
+    background-color: red;
+  }
+  to {
+    background-color: rgba(0, 255, 0, 0.1);
+  }
+}
