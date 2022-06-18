@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/context-memo-demo/static/css/main.9103e12f.css",
+    "main.js": "/context-memo-demo/static/js/main.9228aa37.js",
+    "index.html": "/context-memo-demo/index.html",
+    "main.9103e12f.css.map": "/context-memo-demo/static/css/main.9103e12f.css.map",
+    "main.9228aa37.js.map": "/context-memo-demo/static/js/main.9228aa37.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9103e12f.css",
+    "static/js/main.9228aa37.js"
+  ]
+}
