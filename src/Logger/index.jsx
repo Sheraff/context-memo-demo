@@ -6,7 +6,7 @@ export default function Logger() {
   const ref = useRef();
   useEffect(() => {
     ref.current.classList.remove(styles.logger);
-    ref.current.offsetWidth; // layout thrashing
+    ref.current.offsetWidth; // eslint-disable-line no-unused-expressions -- layout thrashing
     ref.current.classList.add(styles.logger);
   });
   return (
