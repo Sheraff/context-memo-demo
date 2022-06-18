@@ -1,5 +1,6 @@
 {
   "name": "context-memo-demo",
+  "homepage": "https://sheraff.github.io/context-memo-demo",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
